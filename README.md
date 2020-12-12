@@ -14,6 +14,9 @@
 ## Even more about me😒:
 
 - 🧑 I’m a high school student and i am currently doing my Abitur 🧑
-- I’m very interested in programming and i could imagine working in this field later on in my life.
+- 🤵 I’m very interested in programming and i could imagine working in this field later on in my life 🤵
 
-##  What I know🧑🎓:
+##  What I know🎓:
+
+- Java
+- basic HTML
