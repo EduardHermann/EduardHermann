@@ -1,4 +1,4 @@
-# Welcome to my Github profile👋
+# Welcome to my GitHub profile👋
 ## Here is something interesting about me🤣:
 
 - 🔭 I’m currently working on a basic algorithm visualization program 🔭
