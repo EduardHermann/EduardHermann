@@ -1,5 +1,5 @@
 # Welcome to my Github profile👋
-## here is something interesting about me:wink::
+## here is something interesting about me🤣:
 
 - 🔭 I’m currently working on a basic algorithm visualization program 🔭
 - 🌱 I’m currently learning Java 🌱
@@ -10,3 +10,10 @@
 - 😄 Pronouns: he/him 😄
 - ⚡ Fun fact1: A stranger gifted me 10$ after talking and playing with me for just one day ⚡
 - ⚡ Fun fact2: my nickname is Edi ⚡
+
+## Even more about me😉:
+
+I’m a high school student and i am currently doing my Abitur.
+I’m very interested in programming and i could imagine working in this field later on in my life.
+
+##  What I know:
