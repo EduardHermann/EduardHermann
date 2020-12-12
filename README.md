@@ -8,5 +8,5 @@
 - 💬 Ask me about Java, HTML 💬
 - 📫 How to reach me: you can’t 😄 because i don’t use any other social network then Github 📫
 - 😄 Pronouns: he/him 😄
-- ⚡ Fun fact1: A stranger gifted me 10$ after talking and playing with for just one day ⚡
+- ⚡ Fun fact1: A stranger gifted me 10$ after talking and playing with me for just one day ⚡
 - ⚡ Fun fact2: my nickname is Edi ⚡
