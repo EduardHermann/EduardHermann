@@ -1,5 +1,5 @@
 # Welcome to my Github profile👋
-## here is something interesting about me🤣:
+## Here is something interesting about me🤣:
 
 - 🔭 I’m currently working on a basic algorithm visualization program 🔭
 - 🌱 I’m currently learning Java 🌱
