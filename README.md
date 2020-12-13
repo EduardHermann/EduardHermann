@@ -22,4 +22,6 @@
 
 ## Sources to learn from😫:
 
+[StackOverflow](https://stackoverflow.com/)
 [Oracle](https://www.oracle.com/index.html) 
+[Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
