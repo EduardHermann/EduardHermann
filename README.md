@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on creating Java applications 👯
 - 🤔 I’m looking for help with Java 🤔
 - 💬 Ask me about Java, HTML 💬
-- 📫 How to reach me: you can’t 😄 because I don’t use any other social network then Github 📫
+- 📫 How to reach me: you can’t 😄 because I don’t use any other social network besides Github 📫
 - 😄 Pronouns: he/him 😄
 - ⚡ Fun fact: my nickname is Edi ⚡
 
