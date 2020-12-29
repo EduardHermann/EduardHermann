@@ -30,4 +30,4 @@
 
 ## Important websites:
 
-[Download Java](https://www.java.com/de/download/)
+[Download Java 8](https://www.java.com/de/download/)
