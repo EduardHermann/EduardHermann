@@ -27,3 +27,7 @@
 [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) |
 [Alex Lee](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA) |
 [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ)
+
+## Important websites:
+
+[Download Java](https://www.java.com/de/download/)
