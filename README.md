@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on creating Java applications 👯
 - 🤔 I’m looking for help with Java 🤔
 - 💬 Ask me about Java, HTML 💬
-- 📫 How to reach me: send me an e-mail 📫
+- 📫 How to reach me: send me an Email or contact me on Discord📫
 - 😄 Pronouns: he/him 😄
 - ⚡ Fun fact: my nickname is Edi ⚡
 
