@@ -2,7 +2,7 @@
 
 ## Here is something interesting about me🤣:
 
-- 🔭 I’m currently learning inheritance and polymorphism 🔭
+- 🔭 I’m currently learning networking 🔭
 - 🌱 I’m currently learning Java 🌱
 - 👯 I’m looking to collaborate on creating Java applications 👯
 - 🤔 I’m looking for help with Java 🤔
