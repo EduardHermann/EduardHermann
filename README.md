@@ -20,14 +20,3 @@
 
 - Java
 - basic HTML
-
-## Sources to learn from😫:
-
-[StackOverflow](https://stackoverflow.com/) |
-[Oracle](https://www.oracle.com/index.html) |
-[Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) |
-[Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ)
-
-## Important websites😁:
-
-[Download Java 8](https://www.java.com/de/download/)
