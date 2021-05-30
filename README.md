@@ -10,5 +10,4 @@
 
 ##  What I know🎓:
 
-- Java
-- basic HTML
+**Java | Basic HTML**
