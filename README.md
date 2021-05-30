@@ -11,3 +11,6 @@
 ##  What I know🎓:
 
 **Java | Basic HTML**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/EduardHermann/github-readme-stats)
+
