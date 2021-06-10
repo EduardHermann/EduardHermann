@@ -10,7 +10,7 @@
 
 ##  What I know🎓:
 
-**Java | Basic HTML**
+**Java | Basic PYTHON**
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardHermann&langs_count=5&theme=tokyonight)]()
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardHermann&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --> 
